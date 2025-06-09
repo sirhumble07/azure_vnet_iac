@@ -42,7 +42,7 @@ It's designed for **simplicity, reusability, and speed** — so you can focus on
 
 1. **Clone this repo**
     ```sh
-    git clone https://github.com/kunlesanni/azure_vnet_iac.git
+    git clone https://github.com/sirhumble07/azure_vnet_iac.git
     cd azure_vnet_iac
     ```
 
@@ -98,15 +98,15 @@ module "vnet" {
 
 ## 🤝 Contributing
 
-- Found a bug or have an idea? [Open an issue!](https://github.com/kunlesanni/azure_vnet_iac/issues)
+- Found a bug or have an idea? [Open an issue!](https://github.com/sirhumble07/azure_vnet_iac/issues)
 - Pull requests are super welcome!
 
 ---
 
 ## 👩‍💻 Author
 
-- **Kunle Sanni**  
-  [![GitHub](https://img.shields.io/badge/GitHub-kunlesanni-blue?logo=github)](https://github.com/kunlesanni)
+- **Victor Nwoke**  
+  [![GitHub](https://img.shields.io/badge/GitHub-victornwoke-blue?logo=github)](https://github.com/sirhumble07)
 
 ---
 

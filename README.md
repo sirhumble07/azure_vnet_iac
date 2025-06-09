@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/kunlesanni/azure_vnet_iac-banner.png" alt="Azure VNet IaC Banner" width="600"/>
+  <img src="https://github.com/user-attachments/assets/7f67d6c7-0823-4fc7-9a5c-e08e69e22bf7" alt="Azure VNet IaC Banner" width="600"/>
 </p>
 
 # 🌐 Azure VNet IaC
@@ -24,7 +24,7 @@ Whether you're a beginner or a seasoned cloud engineer, this project is here to 
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/kunlesanni/azure_vnet_iac.git
+   git clone https://github.com/sirhumble07/azure_vnet_iac.git
    cd azure_vnet_iac
    ```
 
@@ -84,7 +84,7 @@ module "vnet" {
 ## ⚡ Quick Preview
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/kunlesanni/azure-vnet-diagram.png" alt="Azure VNet Architecture" width="400"/>
+  <img src="https://github.com/user-attachments/assets/44ac2bd4-bcf5-4950-b0cc-2dc51dd785b1" alt="Azure VNet Architecture" width="400"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@ Make this project even more awesome! 😎
 
 If you found this useful, please ⭐️ the repo!
 
-You can reach out on [LinkedIn](https://linkedin.com/in/kunlesanni) or open an issue for suggestions.
+You can reach out on [LinkedIn](https://linkedin.com/in/victornwoke) or open an issue for suggestions.
 
 ---
 
